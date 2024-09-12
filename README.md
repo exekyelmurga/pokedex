@@ -6,5 +6,5 @@ pip install requeriments.txt
 ```
 ### Then ### 
 ```
-python run main
+python run index.py
 ```
